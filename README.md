@@ -2,7 +2,7 @@
 - 👀 I’m interested in changing my career up or at least impressing my coworkers and boss...
 - 🌱 I’m currently learning basic web development before I begin a full stack bootcamp. Any knowledge and experience on that learning type of platform, is welcome.
 - 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me kbcoverme@gmail.com
+- 📫 How to reach me - with both arms
 
 <!---
 k-bizzle/k-bizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

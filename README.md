@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-bizzle
 - 👀 I’m interested in changing my career up or at least impressing my coworkers and boss...
-- 🌱 I’m currently learning basic web development before I begin a full stack bootcamp. Any knowledge and experience on that learning type of platform, is welcome.
+- 🌱 I’ve completed some basic web development courses and am now in a full stack bootcamp. I wish I would've found this love for coding earlier in life so I could be creating new Google by now!
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me - with both arms
 
